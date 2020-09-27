@@ -25,7 +25,7 @@ steps:
 substitutions:
     #GCP Specific configuration. Please DON'T change anything
     _PROJECT: steel-pod-290805
-    _ZONE: asia-south1-a
+    _ZONE: us-central1-a
     _GKE_CLUSTER:  ci-cd-gke-cluster	
     
     #Repository Specific configuration. DevOps can change this settings
